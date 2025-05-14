@@ -87,10 +87,5 @@ exercise_2/
    !pip install pandas matplotlib
    ```
 
-## **🚀 Future Improvements**  
-✅ Add **interactive features** (hover for details).  
-✅ **Enhance visualization** (custom colors, themes).  
-✅ **Compare multiple years of sales data** for trend analysis.  
-
 ## **📜 License**  
 This project is open-source under the **MIT License**. Feel free to modify and distribute.  
